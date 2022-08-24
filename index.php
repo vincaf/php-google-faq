@@ -120,7 +120,7 @@
     </main>
 
     <footer>
-        <div class="container">
+        <div class="container mt-5">
             <ul class="d-flex">
                 <li>Google</li>
                 <li>Tutto su Google</li>
