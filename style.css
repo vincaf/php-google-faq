@@ -3,6 +3,7 @@ header{
     color: #5f6368;
     position: fixed;
     top: 0;
+    background-color: #fff;
 }
 
 header img{
@@ -46,6 +47,6 @@ main h4{
     margin-bottom: 30px;
 }
 
-main .post{
-    margin-bottom: 50px;
+main p{
+    margin-bottom: 80px;
 }
