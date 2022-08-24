@@ -33,3 +33,19 @@ header .active{
 hr{
     margin: 0;
 }
+
+main{
+    margin-top: 180px;
+}
+
+.container{
+    width: 1000px;
+}
+
+main h4{
+    margin-bottom: 30px;
+}
+
+main .post{
+    margin-bottom: 50px;
+}

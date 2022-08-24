@@ -23,5 +23,12 @@
         </ul>
         <hr>
     </header>
+
+    <main class="container">
+        <div class="post">
+            <h4>*Titolo*</h4>
+            <p>*Testo*</p>
+        </div>
+    </main>
 </body>
 </html>
