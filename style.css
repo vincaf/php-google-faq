@@ -1,0 +1,35 @@
+header{
+    width: 100%;
+    color: #5f6368;
+    position: fixed;
+    top: 0;
+}
+
+header img{
+    width: 80px;
+    margin: 10px;
+}
+
+header ul{
+    list-style: none;
+    color:#5f6368;
+    padding: 0;
+    margin: 0 10px;
+}
+
+header li{
+    padding: 5px 0;
+    margin-right: 30px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+header .active{
+    color: #3367d6;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #3367d6;
+}
+
+hr{
+    margin: 0;
+}
